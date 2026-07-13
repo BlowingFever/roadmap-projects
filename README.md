@@ -1,3 +1,3 @@
 # roadmap-projects
 
-https://github.com/BlowingFever/roadmap-projects/blob/main/simple-page-cv/cv.html
+https://github.com/BlowingFever/roadmap-projects/blob/main/simple-page-cv
