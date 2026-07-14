@@ -1,11 +1,15 @@
 # Roadmap Projects
-**This repository contains projects from [roadmap.sh](https://roadmap.sh/)**
-
+ 
+This repository contains projects built following the [roadmap.sh](https://roadmap.sh/) developer path.
+ 
 ## Project List
-Click any of this images below to see the entire project
-
+ 
+[Single Page CV](https://roadmap.sh/projects/single-page-cv)
+ 
+Click any of the images below to view the readme and live demo of the project.
+ 
 <p align="left">
-    <a href="https://github.com/BlowingFever/roadmap-projects/tree/main/frontend/001-simpleCV">
-        <img width="50%" src="./assets/001-single-page-cv.png" alt="single page cv" />
-    </a>
+  <a href='https://github.com/BlowingFever/roadmap-projects/tree/main/frontend/001-simpleCV'>
+    <img width="50%" src="./assets/001-single-page-cv.png" alt="single page cv" >
+  </a>
 </p>
